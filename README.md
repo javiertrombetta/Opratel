@@ -1,4 +1,4 @@
-### Consigna
+### Consigna: Parte 2 (Node)
 
 > Primera Consigna: Web Service en SOAP (PHP):
 > Sin utilizar ningún framework, crear un WS en SOAP utilizando las librerías nativas de PHP o en su defecto nusoap.
