@@ -1,0 +1,21 @@
+{
+  "name": "trompeProj",
+  "version": "1.0.0",
+  "description": "Node + Express + MongoDB API ",
+  "main": "index.js",
+  "author": "jtrombetta",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-winston": "^4.0.5",
+    "mongoose": "^5.10.4",
+    "nodemon": "^2.0.4",
+    "winston": "^3.3.3"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node index.js"
+  }
+}
