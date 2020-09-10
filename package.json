@@ -1,5 +1,5 @@
 {
-  "name": "trompeProj",
+  "name": "opratel-node",
   "version": "1.0.0",
   "description": "Node + Express + MongoDB API ",
   "main": "index.js",
