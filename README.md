@@ -1,11 +1,17 @@
 # Consigna: Parte 2 (Node)
 
 > Segunda Consigna: API Rest (NODE):
+
 > Usando NodeJs y ExpressJs, implementar WS en Rest que funcione tal cual el WS anterior (mismos métodos y mismas respuestas), pero en lugar de SOAP/XML, en JSON puro (tanto > recepción de request como respuesta).
+
 > Utilizar MongoDB para persistir esta información.
+
 > Loggear en 3 niveles todo lo que se procese: access, debug y error (modulo Winston), ej:
+
 > [2019-05-15 10:00:00] INFO - "Procesamos request X | Param1: Y | Param2: Z"
+
 > [2019-05-15 10:00:00] ERROR - "Hubo un error al intentar procesar request X"
+
 > Ejemplo de consumo via consola de linux usando curl.
 
 ### Seteando el proyecto
